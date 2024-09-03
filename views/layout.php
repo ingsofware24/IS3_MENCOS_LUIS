@@ -17,8 +17,8 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <a class="navbar-brand" href="#">
-                <img src="<?= asset('./images/cargo.png') ?>" width="35px'" alt="cit" >
-                Cargo Express
+                <img src="<?= asset('./images/cit.png') ?>" width="35px'" alt="cit" >
+                cit Express
             </a>
             <div class="collapse navbar-collapse" id="navbarToggler">
                 
@@ -89,7 +89,7 @@
         <div class="row justify-content-center text-center">
             <div class="col-12">
                 <p style="font-size:xx-small; font-weight: bold;">
-                        Cargo Express, tu paquete esta en buenas manos <?= date('Y') ?> &copy;
+                        cit Express, tu paquete esta en buenas manos <?= date('Y') ?> &copy;
                 </p>
             </div>
         </div>
